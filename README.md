@@ -22,4 +22,3 @@ Follow the error messages and inspect the individual tests to guide your develop
 
 * What do you do when you have an Uninitialized Constant?
 * What do you do when you have the wrong number of arguments?
-# http-responses
