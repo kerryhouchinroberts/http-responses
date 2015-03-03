@@ -16,6 +16,7 @@ Follow the error messages and inspect the individual tests to guide your develop
 
 * Don't forget to make your own file to hold your parsing code! (HINT: it's required in the spec_helper.rb)
 * DOUBLE HINT: this file goes in the lib folder!
+* TRIPLE HINT: YOU WILL NEED TO INITIALIZE!
 * A 200 and 301 response format are in the lib folder for reference.
 
 # THINK
